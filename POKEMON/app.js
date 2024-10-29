@@ -3,7 +3,7 @@
 // Select the container element where the Pokemon images will be appended.
 const container = document.querySelector('#container');
 
-// Define the base URL for fetching Pokemon sprite images.
+// Define t he base URL for fetching Pokemon sprite images.
 const baseURL = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/'
 
 // Loop through the first 151 Pokemon (from 1 to 151).
